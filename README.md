@@ -1,7 +1,7 @@
 # rust-pangenome-graph-bed
  
  - rust pangenome graph bed converted
- - Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+ - please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 
  ```
